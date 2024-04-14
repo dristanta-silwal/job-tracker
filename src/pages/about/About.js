@@ -27,9 +27,6 @@ const About = () => {
                 <li><strong>Web Scraping:</strong> Utilize libraries like BeautifulSoup to scrape job listings from diverse websites.</li>
                 <li><strong>PDF Generation Libraries:</strong> Tools for generating professional CVs and resumes in PDF format.</li>
             </ul>
-            <p className="text-sm text-gray-600 mt-8">
-                Note: Ensure compliance with legal regulations concerning data privacy and usage rights when scraping job listings from third-party websites. Consider utilizing APIs or obtaining proper permissions where available.
-            </p>
         </div>
     );
 };
