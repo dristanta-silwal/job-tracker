@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/job-tracker/react-gh-pages/static/css/main.d67f2e78.css",
-    "main.js": "/job-tracker/react-gh-pages/static/js/main.da7edb6f.js",
-    "index.html": "/job-tracker/react-gh-pages/index.html",
-    "main.d67f2e78.css.map": "/job-tracker/react-gh-pages/static/css/main.d67f2e78.css.map",
-    "main.da7edb6f.js.map": "/job-tracker/react-gh-pages/static/js/main.da7edb6f.js.map"
+    "main.css": "/react-gh-pages/static/css/main.d67f2e78.css",
+    "main.js": "/react-gh-pages/static/js/main.da7edb6f.js",
+    "index.html": "/react-gh-pages/index.html",
+    "main.d67f2e78.css.map": "/react-gh-pages/static/css/main.d67f2e78.css.map",
+    "main.da7edb6f.js.map": "/react-gh-pages/static/js/main.da7edb6f.js.map"
   },
   "entrypoints": [
     "static/css/main.d67f2e78.css",
